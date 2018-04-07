@@ -67,6 +67,8 @@ Nikon800_class     3680 x 2456     f/4.5        1/160s            1600
 Nikon800_desk      3680 x 2456     f/4.5        1/160s            3200
 Nikon800_map       3680 x 2456     f/5          1/100s            4000
 Nikon800_flowe     3680 x 2456     f/5          1/100s            4000
+Nikon800_wall      3680 x 2456     f/5          1/100s            6400
+Nikon800_stair     3680 x 2456     f/5          1/125s            6400
 
 
 Camera 5: Sony ILCE-7M2
