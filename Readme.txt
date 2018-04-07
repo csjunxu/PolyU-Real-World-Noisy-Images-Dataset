@@ -100,5 +100,4 @@ This dataset does not depend on any external dataset.
 
 Contact
 ------------
-If you have questions, problems with the code, or find a bug, please let us know. Contact Jun Xu at 
-csjunxu@comp.polyu.edu.hk or nankaimathxujun@gmail.com
+If you have questions, problems with the code, or find a bug, please let us know. Contact Jun Xu at csjunxu@comp.polyu.edu.hk or nankaimathxujun@gmail.com
