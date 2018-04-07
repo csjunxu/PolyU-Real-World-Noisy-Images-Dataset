@@ -14,12 +14,12 @@ as described in the following paper:
 % ===============================================================
 
 Note
-------------
-For more training and testing needs, please refer to XXXXXXXXXXXXXXXXXXXXXXX
+---------------
+For more training and testing needs, please refer to XXXXXXXXXXXXXXXXXXXXXXXXXX
 for more shots of the real-world noisy images.
 
 Overview
-------------
+---------------
 This dataset contains 37 different scenes captured by 5 cameras from the 3 leading brands of cameras:
 1) Canon (5D II, 80D, 600D);
 2) Nikon (D800);
@@ -30,15 +30,16 @@ We crop 100 regions of 512X512 from these 37 scenes1:
     The *mean.JPG are "ground truth" images.
 
 Dataset Details
-------------
+---------------
 Please download the data from corresponding addresses.
-1. Kodak24: 24 high quality color images from Kodak PhotoCD dataset
-                        This dataset can be found at http://r0k.us/graphics/kodak/
-2. NCImages: real-world noisy images with no ''ground truth'' from "NoiseClinic"
-                        This dataset can be found at http://demo.ipol.im/demo/125/
 
-The "CCImages" directory include two parts:
-3. CC15: 15 cropped real-world noisy images from CC [1]. 
+
+
+
+
+Other Datasets
+---------------
+CC: 15 cropped real-world noisy images from CC [1]. 
                         This dataset can be found at  http://snam.ml/research/ccnoise
                         The smaller 15 cropped images can be found on in the directory 
                         ''Real_ccnoise_denoised_part'' of 
@@ -46,11 +47,8 @@ The "CCImages" directory include two parts:
                                                 The *real.png are noisy images;
                                                 The *mean.png are "ground truth" images;
                                                 The *ours.png are images denoised by CC.
-4. CC60: 60 cropped (by us) real-world noisy images from CC [1]. 
-                        "CC_60MeanImage" inlcudes the "ground truth" images;
-                        "CC_60NoisyImage" inlcudes the noisy images;
 
-5. DND_2017: 1000 cropped real-world noisy images from DND [2].
+DND_2017: 1000 cropped real-world noisy images from DND [2].
                          Please download the dataset from https://noise.visinf.tu-darmstadt.de/
                          and put the files in "DND_2017" directory accordingly.
 
