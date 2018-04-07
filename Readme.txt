@@ -32,7 +32,7 @@ We crop 100 regions of 512X512 from these 37 scenes1:
 Dataset Details
 ---------------
 Camera 1: Canon EOS 5D Mark II
-Image Nam             Size      Aperture     Shutter Speed     ISO Value
+Image Name            Size       Aperture    Shutter Speed     ISO Value
 Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
 Canon5D2_mouse     2784 x 1856     f/5          1/160s            3200
 Canon5D2_plug      2784 x 1856     f/5          1/160s            3200
@@ -45,7 +45,7 @@ Canon5D2_fruit     2784 x 1856     f/5          1/200s            3200
 Canon5D2_toy       2784 x 1856     f/5          1/200s            3200
 
 Camera 2: Canon EOS 80D
-Image Nam             Size      Aperture     Shutter Speed     ISO Value
+Image Name            Size       Aperture    Shutter Speed     ISO Value
 Canon80D_GO        2976 x 1680     f/8            1/8s             800
 Canon80D_corne     2976 x 1680     f/8            1/8s            1600
 Canon80D_ball      2976 x 1680     f/8            1/8s            3200
@@ -53,8 +53,9 @@ Canon80D_compr     2976 x 1680     f/8            1/8s            6400
 Canon80D_print     2976 x 1680     f/8            1/8s           12800
 
 Camera 3: Canon EOS 600D
-Image Nam             Size      Aperture     Shutter Speed     ISO Value
-Canon600D_wate     5184 x 3456     f/3.5        1/125s            1600
+Image Name            Size       Aperture    Shutter Speed     ISO Value
+Cano600D_water     5184 x 3456     f/3.5        1/125s            1600
+Cano600D_book      5184 x 3456     f/3.5        1/125s            1600
 
 
 
