@@ -54,7 +54,10 @@ Canon80D_print     2976 x 1680     f/8            1/8s           12800
 
 Camera 3: Canon EOS 600D
 Image Nam             Size      Aperture     Shutter Speed     ISO Value
-Canon80D_GO        2784 x 1856     f/8            1/8s             800
+Canon600D_wate     5184 x 3456     f/3.5        1/125s            1600
+
+
+
 
 Other Datasets
 ---------------
