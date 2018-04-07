@@ -34,59 +34,58 @@ Dataset Details
 ---------------
 Camera 1: Canon EOS 5D Mark II
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
-Canon5D2_mouse     2784 x 1856     f/5          1/160s            3200
-Canon5D2_plug      2784 x 1856     f/5          1/160s            3200
-Canon5D2_robot     2784 x 1856     f/5          1/160s            3200
 Canon5D2_bicyc     2784 x 1856     f/5          1/160s            6400
+Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
 Canon5D2_circu     2784 x 1856     f/5          1/160s            6400
 Canon5D2_desk      2784 x 1856     f/5          1/160s            6400
-Canon5D2_recie     2784 x 1856     f/5          1/160s            6400
 Canon5D2_fruit     2784 x 1856     f/5          1/200s            3200
+Canon5D2_mouse     2784 x 1856     f/5          1/160s            3200
+Canon5D2_plug      2784 x 1856     f/5          1/160s            3200
+Canon5D2_recie     2784 x 1856     f/5          1/160s            6400
+Canon5D2_robot     2784 x 1856     f/5          1/160s            3200
 Canon5D2_toy       2784 x 1856     f/5          1/200s            3200
 
 
 Camera 2: Canon EOS 80D
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Canon80D_GO        2976 x 1680     f/8            1/8s             800
-Canon80D_corne     2976 x 1680     f/8            1/8s            1600
 Canon80D_ball      2976 x 1680     f/8            1/8s            3200
 Canon80D_compr     2976 x 1680     f/8            1/8s            6400
+Canon80D_corne     2976 x 1680     f/8            1/8s            1600
+Canon80D_GO        2976 x 1680     f/8            1/8s             800
 Canon80D_print     2976 x 1680     f/8            1/8s           12800
 
 
 Camera 3: Canon EOS 600D
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Canon600_water     5184 x 3456     f/3.5        1/125s            1600
 Canon600_book      5184 x 3456     f/4.5        1/125s            1600
 Canon600_toy       5184 x 3456     f/4.5        1/125s            1600
+Canon600_water     5184 x 3456     f/3.5        1/125s            1600
 
 
 Camera 4: NIKON D800
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Nikon800_class     3680 x 2456     f/4.5        1/160s            1600
-Nikon800_desk      3680 x 2456     f/4.5        1/160s            3200
-Nikon800_map       3680 x 2456     f/5          1/100s            4000
-Nikon800_flowe     3680 x 2456     f/5          1/100s            4000
-Nikon800_wall      3680 x 2456     f/5          1/100s            6400
-Nikon800_stair     3680 x 2456     f/5          1/125s            6400
-Nikon800_door      3680 x 2456     f/5.6        1/160s            6400
-Nikon800_plant     3680 x 2456     f/6.3        1/125s            5000
 Nikon800_bulle     3680 x 2456     f/8          1/100s            6400
-Nikon800_photo     3680 x 2456     f/8          1/125s            6400
-Nikon800_plaso     3680 x 2456     f/10         1/100s            6400
+Nikon800_class     3680 x 2456     f/4.5        1/160s            1600
 Nikon800_desch     3680 x 2456     f/11         1/160s            3200
-
+Nikon800_desk      3680 x 2456     f/4.5        1/160s            3200
+Nikon800_door      3680 x 2456     f/5.6        1/160s            6400
+Nikon800_flowe     3680 x 2456     f/5          1/100s            4000
+Nikon800_map       3680 x 2456     f/5          1/100s            4000
+Nikon800_photo     3680 x 2456     f/8          1/125s            6400
+Nikon800_plant     3680 x 2456     f/6.3        1/125s            5000
+Nikon800_plaso     3680 x 2456     f/10         1/100s            6400
+Nikon800_stair     3680 x 2456     f/5          1/125s            6400
+Nikon800_wall      3680 x 2456     f/5          1/100s            6400
 
 
 Camera 5: SonyA7II ILCE-7M2
 Image Name            Size       Aperture    Shutter Speed     ISO Value
+SonyA7II_book      3008 x 1688     f/4.5        1/125s            1600
 SonyA7II_class     3008 x 1688     f/3.5        1/200s            1600
 SonyA7II_compu     3008 x 1688     f/3.5        1/500s            3200
 SonyA7II_door      3008 x 1688     f/4          1/200s            3200
-SonyA7II_book      3008 x 1688     f/4.5        1/125s            1600
-SonyA7II_toy       3008 x 1688     f/4.5        1/125s            1600
 SonyA7II_plant     3008 x 1688     f/4.5        1/125s            3200
+SonyA7II_toy       3008 x 1688     f/4.5        1/125s            1600
 SonyA7II_water     3008 x 1688     f/4.5        1/125s            6400
 
 
