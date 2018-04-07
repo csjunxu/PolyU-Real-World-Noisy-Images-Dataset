@@ -31,14 +31,22 @@ We crop 100 regions of 512X512 from these 37 scenes1:
 
 Dataset Details
 ---------------
-Canon EOS 5D Mark II: 
+Camera 1: Canon EOS 5D Mark II
 Image Nam             Size      Aperture     Shutter Speed     ISO Value
 Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
 Canon5D2_mouse     2784 x 1856     f/5          1/160s            3200
 Canon5D2_plug      2784 x 1856     f/5          1/160s            3200
 Canon5D2_robot     2784 x 1856     f/5          1/160s            3200
-Canon5D2_mouse  
+Canon5D2_bicyc     2784 x 1856     f/5          1/160s            6400
+Canon5D2_circu     2784 x 1856     f/5          1/160s            6400
+Canon5D2_desk      2784 x 1856     f/5          1/160s            6400
+Canon5D2_recie     2784 x 1856     f/5          1/160s            6400
+Canon5D2_fruit     2784 x 1856     f/5          1/200s            3200
+Canon5D2_toy       2784 x 1856     f/5          1/200s            3200
 
+Camera 2: Canon EOS 5D Mark II: 
+Image Nam             Size      Aperture     Shutter Speed     ISO Value
+Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
 
 
 Other Datasets
