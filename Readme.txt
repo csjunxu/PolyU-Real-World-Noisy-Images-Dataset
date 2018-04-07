@@ -63,12 +63,12 @@ Canon600_toy       5184 x 3456     f/4.5        1/125s            1600
 
 Camera 4: NIKON D800
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Nikon800_water     5184 x 3456     f/3.5        1/125s            1600
+Nikon800_water     3680 x 2456     f/4.5        1/160s            1600
 
 
 Camera 5: Sony ILCE-7M2
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-SonyA7II_water     5184 x 3456     f/3.5        1/125s            1600
+SonyA7II_class     3008 x 1688     f/3.5        1/200s            1600
 
 
 
