@@ -69,12 +69,24 @@ Nikon800_map       3680 x 2456     f/5          1/100s            4000
 Nikon800_flowe     3680 x 2456     f/5          1/100s            4000
 Nikon800_wall      3680 x 2456     f/5          1/100s            6400
 Nikon800_stair     3680 x 2456     f/5          1/125s            6400
+Nikon800_door      3680 x 2456     f/5.6        1/160s            6400
+Nikon800_plant     3680 x 2456     f/6.3        1/125s            5000
+Nikon800_bulle     3680 x 2456     f/8          1/100s            6400
+Nikon800_photo     3680 x 2456     f/8          1/125s            6400
+Nikon800_plaso     3680 x 2456     f/10         1/100s            6400
+Nikon800_desch     3680 x 2456     f/11         1/160s            3200
 
 
-Camera 5: Sony ILCE-7M2
+
+Camera 5: SonyA7II ILCE-7M2
 Image Name            Size       Aperture    Shutter Speed     ISO Value
 SonyA7II_class     3008 x 1688     f/3.5        1/200s            1600
-
+SonyA7II_compu     3008 x 1688     f/3.5        1/500s            3200
+SonyA7II_door      3008 x 1688     f/4          1/200s            3200
+SonyA7II_book      3008 x 1688     f/4.5        1/125s            1600
+SonyA7II_toy       3008 x 1688     f/4.5        1/125s            1600
+SonyA7II_plant     3008 x 1688     f/4.5        1/125s            3200
+SonyA7II_water     3008 x 1688     f/4.5        1/125s            6400
 
 
 Other Datasets
