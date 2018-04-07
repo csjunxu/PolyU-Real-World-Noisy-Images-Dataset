@@ -21,19 +21,22 @@ for more shots of the real-world noisy images.
 Overview
 ---------------
 This dataset contains 37 different scenes captured by 5 cameras from the 3 leading brands of cameras:
-1) Canon (5D II, 80D, 600D);
+1) Canon EOS (5D Mark II, 80D, 600D);
 2) Nikon (D800);
 3) Sony (A7 II).
 
 We crop 100 regions of 512X512 from these 37 scenes1:
-    The *real.JPG are noisy images;
+    The *Real.JPG are noisy images;
     The *mean.JPG are "ground truth" images.
 
 Dataset Details
 ---------------
-Please download the data from corresponding addresses.
-
-
+Canon EOS 5D Mark II: 
+Image Nam             Size      Aperture     Shutter Speed     ISO Value
+Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
+Canon5D2_mouse     2784 x 1856     f/5          1/160s            3200
+Canon5D2_plug      2784 x 1856     f/5          1/160s            3200
+Canon5D2_mouse  
 
 
 
