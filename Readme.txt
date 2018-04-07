@@ -36,6 +36,7 @@ Image Nam             Size      Aperture     Shutter Speed     ISO Value
 Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
 Canon5D2_mouse     2784 x 1856     f/5          1/160s            3200
 Canon5D2_plug      2784 x 1856     f/5          1/160s            3200
+Canon5D2_robot     2784 x 1856     f/5          1/160s            3200
 Canon5D2_mouse  
 
 
