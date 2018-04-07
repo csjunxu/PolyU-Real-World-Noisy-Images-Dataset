@@ -46,7 +46,7 @@ Canon5D2_toy       2784 x 1856     f/5          1/200s            3200
 
 Camera 2: Canon EOS 80D
 Image Nam             Size      Aperture     Shutter Speed     ISO Value
-Canon80D_GO        2784 x 1856     f/8            1/8s             800
+Canon80D_GO        2976 x 1680     f/8            1/8s             800
 Canon80D_corne     2976 x 1680     f/8            1/8s            1600
 Canon80D_ball      2976 x 1680     f/8            1/8s            3200
 Canon80D_compr     2976 x 1680     f/8            1/8s            6400
