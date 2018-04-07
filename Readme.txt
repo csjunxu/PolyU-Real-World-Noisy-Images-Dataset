@@ -56,19 +56,19 @@ Canon80D_print     2976 x 1680     f/8            1/8s           12800
 
 Camera 3: Canon EOS 600D
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Cano600D_water     5184 x 3456     f/3.5        1/125s            1600
-Cano600D_book      5184 x 3456     f/4.5        1/125s            1600
-Cano600D_toy       5184 x 3456     f/4.5        1/125s            1600
+Canon600_water     5184 x 3456     f/3.5        1/125s            1600
+Canon600_book      5184 x 3456     f/4.5        1/125s            1600
+Canon600_toy       5184 x 3456     f/4.5        1/125s            1600
 
 
 Camera 4: NIKON D800
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Cano600D_water     5184 x 3456     f/3.5        1/125s            1600
+Nikon800_water     5184 x 3456     f/3.5        1/125s            1600
 
 
 Camera 5: Sony ILCE-7M2
 Image Name            Size       Aperture    Shutter Speed     ISO Value
-Cano600D_water     5184 x 3456     f/3.5        1/125s            1600
+SonyA7II_water     5184 x 3456     f/3.5        1/125s            1600
 
 
 
