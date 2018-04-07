@@ -15,7 +15,8 @@ as described in the following paper:
 
 Note
 ---------------
-For more training and testing needs, please refer to XXXXXXXXXXXXXXXXXXXXXXXXXX
+For more training and testing needs, please refer to 
+https://pan.baidu.com/s/1539s_gNN8zvDYxG-DbiDuA (code: gy9b)
 for more shots of the real-world noisy images.
 
 Overview
