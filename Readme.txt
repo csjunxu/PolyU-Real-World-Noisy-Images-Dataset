@@ -3,7 +3,7 @@ The dataset in this package provides the real-world noisy images
 as described in the following paper:
 
   Jun Xu, Hui Li, Zhetong Liang, David Zhang, and Lei Zhang
-  The title of this paper is not determined yet.
+  Real-world Noisy Image Denoising: A New Benchmark。
   To be submitted, 2018.
 
   Please cite the paper if you are using this dataset in your research.
