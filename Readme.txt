@@ -4,7 +4,7 @@ as described in the following paper:
 
   Jun Xu, Hui Li, Zhetong Liang, David Zhang, and Lei Zhang
   Real-world Noisy Image Denoising: A New Benchmark
-  To be submitted, 2018.
+  https://arxiv.org/abs/1804.02603, 2018.
 
   Please cite the paper if you are using this dataset in your research.
   Please see the file License.txt for the license governing this code.
