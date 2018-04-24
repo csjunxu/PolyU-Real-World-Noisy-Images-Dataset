@@ -21,12 +21,12 @@ for more shots of the real-world noisy images.
 
 Overview
 ---------------
-This dataset contains 37 different scenes captured by 5 cameras from the 3 leading brands of cameras:
+This dataset contains 40 different scenes captured by 5 cameras from the 3 leading brands of cameras:
 1) Canon EOS (5D Mark II, 80D, 600D);
 2) Nikon (D800);
 3) Sony (A7 II).
 
-We crop 100 regions of 512X512 from these 37 scenes1:
+We crop 100 regions of 512X512 from these 40 scenes1:
     The *Real.JPG are noisy images;
     The *mean.JPG are "ground truth" images.
 
@@ -34,6 +34,7 @@ Dataset Details
 ---------------
 Camera 1: Canon EOS 5D Mark II
 Image Name            Size       Aperture    Shutter Speed     ISO Value
+Canon5D2_bag       2784 x 1856     f/5          1/200s            6400
 Canon5D2_bicyc     2784 x 1856     f/5          1/160s            6400
 Canon5D2_chair     2784 x 1856     f/5          1/160s            3200
 Canon5D2_circu     2784 x 1856     f/5          1/160s            6400
@@ -66,6 +67,7 @@ Camera 4: NIKON D800
 Image Name            Size       Aperture    Shutter Speed     ISO Value
 Nikon800_bulle     3680 x 2456     f/8          1/100s            6400
 Nikon800_class     3680 x 2456     f/4.5        1/160s            1600
+NikonD800_carbinet 3680 x 2456     f/8          1/125s            4000
 Nikon800_desch     3680 x 2456     f/11         1/160s            3200
 Nikon800_desk      3680 x 2456     f/4.5        1/160s            3200
 Nikon800_door      3680 x 2456     f/5.6        1/160s            6400
@@ -78,6 +80,7 @@ Nikon800_stair     3680 x 2456     f/5          1/125s            6400
 Nikon800_wall      3680 x 2456     f/5          1/100s            6400
 
 
+
 Camera 5: SonyA7II ILCE-7M2
 Image Name            Size       Aperture    Shutter Speed     ISO Value
 SonyA7II_book      3008 x 1688     f/4.5        1/125s            1600
@@ -87,7 +90,7 @@ SonyA7II_door      3008 x 1688     f/4          1/200s            3200
 SonyA7II_plant     3008 x 1688     f/4.5        1/125s            3200
 SonyA7II_toy       3008 x 1688     f/4.5        1/125s            1600
 SonyA7II_water     3008 x 1688     f/4.5        1/125s            6400
-
+SonyA7II_stair2    3008 x 1688     f/10         1/10s             1600
 
 Other Datasets
 ---------------
