@@ -68,6 +68,7 @@ Image Name            Size       Aperture    Shutter Speed     ISO Value
 Nikon800_bulle     3680 x 2456     f/8          1/100s            6400
 Nikon800_carbi     3680 x 2456     f/8          1/125s            4000
 Nikon800_class     3680 x 2456     f/4.5        1/160s            1600
+NikonD800_carbinet 3680 x 2456     f/8          1/125s            4000
 Nikon800_desch     3680 x 2456     f/11         1/160s            3200
 Nikon800_desk      3680 x 2456     f/4.5        1/160s            3200
 Nikon800_door      3680 x 2456     f/5.6        1/160s            6400
@@ -91,6 +92,10 @@ SonyA7II_plant     3008 x 1688     f/4.5        1/125s            3200
 SonyA7II_stair     3008 x 1688     f/10         1/10s             1600
 SonyA7II_toy       3008 x 1688     f/4.5        1/125s            1600
 SonyA7II_water     3008 x 1688     f/4.5        1/125s            6400
+<<<<<<< HEAD
+=======
+SonyA7II_stair2    3008 x 1688     f/10         1/10s             1600
+>>>>>>> origin/master
 
 Other Datasets
 ---------------
