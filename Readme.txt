@@ -95,7 +95,7 @@ SonyA7II_water     3008 x 1688     f/4.5        1/125s            6400
 
 Other Datasets
 ---------------
-CC: 15 cropped real-world noisy images from CC [1]. 
+CC [1]: 15 cropped real-world noisy images from CC dataset. 
                         This dataset can be found at  http://snam.ml/research/ccnoise
                         The smaller 15 cropped images can be found on in the directory 
                         ''Real_ccnoise_denoised_part'' of 
@@ -104,15 +104,19 @@ CC: 15 cropped real-world noisy images from CC [1].
                                                 The *mean.png are "ground truth" images;
                                                 The *ours.png are images denoised by CC.
 
-DND_2017: 1000 cropped real-world noisy images from DND [2].
+DND [2]: 1000 cropped real-world noisy images from DND dataset.
                          Please download the dataset from https://noise.visinf.tu-darmstadt.de/
                          and put the files in "DND_2017" directory accordingly.
+                         
+SID [3]: http://cchen156.web.engr.illinois.edu/SID.html 
 
+SIDD [4]: Smartphone Image Denoising Dataset
+    https://www.eecs.yorku.ca/~kamel/sidd/index.php
 
-[1] Seonghyeon Nam*, Youngbae Hwang*, Yasuyuki Matsushita, Seon Joo Kim. A Holistic Approach to 
-      Cross-Channel Image Noise Modeling and its Application to Image Denoising. CVPR, 2016.
+[1] Seonghyeon Nam*, Youngbae Hwang*, Yasuyuki Matsushita, Seon Joo Kim. A Holistic Approach to Cross-Channel Image Noise Modeling and its Application to Image Denoising. CVPR, 2016.
 [2] Tobias Pl?tz and Stefan Roth. Benchmarking Denoising Algorithms with Real Photographs. CVPR, 2017.
-
+[3] Chen Chen, Qifeng Chen, Jia Xu and Vladlen Koltun. Learning to See in the Dark. CVPR, 2018.
+[4] Abdelrahman Abdelhamed, Lin S., Brown M. S. A High-Quality Denoising Dataset for Smartphone Cameras. CVPR, 2018.
 
 Dependency
 ------------
