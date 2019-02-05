@@ -9,15 +9,16 @@ as described in the following paper:
   Please cite the paper if you are using this dataset in your research.
   Please see the file License.txt for the license governing this code.
 
-  Version:       1.0 (04/07/2018), see ChangeLog.txt
+  Version:       1.1 (02/05/2019), see ChangeLog.txt
   Contact:       Jun Xu <csjunxu@comp.polyu.edu.hk/nankaimathxujun@gmail.com>
 % ===============================================================
 
 Note
 ---------------
-For more training and testing needs, please refer to 
-https://pan.baidu.com/s/1539s_gNN8zvDYxG-DbiDuA (code: gy9b)
-for more shots of the real-world noisy images.
+For more shots of training and test real-world noisy images, please refer to 
+1. (Folders) https://pan.baidu.com/s/1539s_gNN8zvDYxG-DbiDuA (code: gy9b).
+2. (One Zip File) TBA.
+
 
 Overview
 ---------------
