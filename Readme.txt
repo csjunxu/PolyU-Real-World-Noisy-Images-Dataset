@@ -16,7 +16,7 @@ as described in the following paper:
 Note
 ---------------
 For more shots of training and test real-world noisy images, please refer to 
-1. (Folders) https://pan.baidu.com/s/1539s_gNN8zvDYxG-DbiDuA (code: gy9b).
+1. (Multiple Folders) https://pan.baidu.com/s/1539s_gNN8zvDYxG-DbiDuA (code: gy9b).
 2. (One Zip File) https://pan.baidu.com/s/1uK8XTFdD8xReMa5cs_NPLg.
 
 
