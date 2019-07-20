@@ -27,7 +27,7 @@ This dataset contains 40 different scenes captured by 5 cameras from the 3 leadi
 2) Nikon (D800);
 3) Sony (A7 II).
 
-We crop 100 regions of 512X512 from these 40 scenes1:
+We crop 100 regions of 512X512 from these 40 scenes:
     The *Real.JPG are noisy images;
     The *mean.JPG are "ground truth" images.
 
